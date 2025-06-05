@@ -1,1 +1,1 @@
-<h1 align="center">Void-GPT</h1>
+<h1 align = "center"> Void-GPT </h1>
