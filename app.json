@@ -2,6 +2,7 @@
   "expo": {
     "name": "void-gpt",
     "slug": "void-gpt",
+    "scheme": "voidgpt",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +25,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png",
-       "bundler": "metro"
-    }
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
